@@ -29,9 +29,6 @@ Greater Noida, India
 - VS Code  
 - Figma (UI/UX basics)
 
-**Databases**
-- Supabase (PostgreSQL)
-
 **Blockchain**
 - Basic exposure to Algorand (through project work)
 
