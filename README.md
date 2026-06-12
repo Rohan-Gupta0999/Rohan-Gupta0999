@@ -1,7 +1,7 @@
 <h1 align="center">Rohan Kumar Gupta</h1>
 
 <p align="center">
-B.Tech Student (1st Year) — Computer Science (Artificial Intelligence & Machine Learning)<br>
+B.Tech Student (2nd Year) — Computer Science (Artificial Intelligence & Machine Learning)<br>
 Noida Institute of Engineering and Technology<br>
 Greater Noida, India
 </p>
@@ -10,9 +10,8 @@ Greater Noida, India
 
 ## Professional Summary
 
-- Aspiring Full-Stack Developer with a strong interest in blockchain and decentralized systems  
-- Focused on building real-world applications that improve transparency and accountability  
-- Actively learning and applying new technologies through practical projects  
+- Aspiring to become a Python developer 
+- Actively learning and building applications that solve some real world problems using python 
 
 ---
 
@@ -21,13 +20,8 @@ Greater Noida, India
 **Languages**
 - C  
 - C++  
-- JavaScript (currently learning)
+- Python(most comfortable)
 
-**Tools**
-- Git  
-- GitHub  
-- VS Code  
-- Figma (UI/UX basics)
 
 **Blockchain**
 - Basic exposure to Algorand (through project work)
