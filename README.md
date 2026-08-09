@@ -56,6 +56,34 @@ Greater Noida, India
 
 ---
 
+### 2) DeadAim — Gesture-Controlled Computer Vision Game
+[View Repo] : https://github.com/Rohan-Gupta0999/DeadAim
+
+**Problem Statement** (Gaming Interaction)
+
+- Traditional games rely heavily on keyboards, mice, or physical controllers
+- Limited interaction between natural hand movement and digital gameplay
+- Need for a responsive, controller-free interaction system using computer vision
+
+**Solution**
+
+- Developed a computer-vision-based shooting game controlled through real-time hand gestures
+- Used webcam input and hand tracking to translate physical hand movements into gameplay actions
+- Implemented gesture-based aiming and firing for controller-free gameplay
+- Designed a real-time HUD to provide visual feedback during gameplay
+- Implemented dynamic crosshair control based on hand movement
+- Focused on improving gesture stability, responsiveness, and real-time interaction
+- Built the system around webcam-based interaction without requiring dedicated gaming hardware
+
+**Tech Stack**
+
+- C++, Python
+- OpenCV
+- MediaPipe
+- SFML
+- Computer Vision
+- Hand Gesture Recognition
+
 ## Contact
 
 - GitHub: https://github.com/Rohan-Gupta0999  
