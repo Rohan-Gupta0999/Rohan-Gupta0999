@@ -10,7 +10,6 @@ Greater Noida, India
 
 ## Professional Summary
 
-- Aspiring to become a Python developer 
 - Actively learning and building applications that solve some real world problems using python 
 
 ---
@@ -83,6 +82,51 @@ Greater Noida, India
 - SFML
 - Computer Vision
 - Hand Gesture Recognition
+
+---
+
+<h3> 3) QuantifySec — Cyber Risk Quantification & Investment Optimization Platform</h3>
+
+<p>[View Repo] : https://github.com/Intrinsic-Maestro/quantifysec</p>
+
+<h4>Problem Statement (Cyber Risk & Financial Translation)</h4>
+<ul>
+  <li>Traditional vulnerability scanners present raw technical scores without translating risk into monetary business terms.</li>
+  <li>Security teams struggle to justify budgets to executive leadership (CISOs and CFOs) due to a lack of defensible ROI metrics.</li>
+  <li>Organizations lack systematic, data-driven optimization tools to prioritize which security controls to deploy under strict budget constraints.</li>
+</ul>
+
+<h4>Solution & Platform Overview</h4>
+<ul>
+  <li>Collaborative, team-built enterprise web platform designed to convert raw vulnerability data into quantifiable financial risk distributions.</li>
+  <li>Aggregates multi-file OCSF telemetry data and models potential annual breach losses in direct dollar terms.</li>
+  <li>Delivers actionable CISO and CFO executive dashboards that map cyber exposure directly to prioritized mitigation strategies.</li>
+</ul>
+
+<h4>The Core Engine (Backend & Analytics Architecture)</h4>
+<ul>
+  <li><strong>Probabilistic Risk Modeling:</strong> Runs high-iteration Monte Carlo simulations across annualized rate of occurrence (ARO) and secondary loss parameters to generate financial loss exceedance curves.</li>
+  <li><strong>Mathematical Budget Optimization:</strong> Integrates an Integer Linear Programming (ILP) solver (via PuLP / CBC) to identify the mathematically optimal combination of security controls that maximize risk reduction within defined budget caps.</li>
+  <li><strong>Telemetry & Ingestion Pipeline:</strong> Ingests OCSF-formatted technical logs, parsing disparate vulnerability signals into structured input vectors for statistical analysis.</li>
+  <li><strong>Scalable API Layer:</strong> Built with high-performance asynchronous FastAPI microservices, hosted on Railway with multi-tenant relational persistence backed by Supabase.</li>
+</ul>
+
+<h4>My Role & Key Contributions (Frontend & Architecture)</h4>
+<ul>
+  <li><strong>End-to-End Frontend Development:</strong> Architected and built the full client application from scratch using Next.js App Router, TypeScript, and Tailwind CSS.</li>
+  <li><strong>Interactive AI Assistant:</strong> Integrated a persistent, interactive assistant to guide users through complex financial risk metrics and portfolio recommendations.</li>
+  <li><strong>Data Visualization & State Management:</strong> Developed responsive, real-time data visualizers for Monte Carlo distribution histograms, return-on-security-investment (ROSI) metrics, and control trade-off curves.</li>
+  <li><strong>Full-Stack Integration:</strong> Wired frontend states seamlessly to the FastAPI endpoints, handling asynchronous simulation tasks, authentication, and multi-tenant project switching.</li>
+</ul>
+
+<h4>Tech Stack</h4>
+<ul>
+  <li><strong>Frontend:</strong> Next.js (App Router), TypeScript, Tailwind CSS, Lucide React</li>
+  <li><strong>Backend & Engine:</strong> FastAPI, Python, Monte Carlo Simulation, PuLP (CBC Solver)</li>
+  <li><strong>Data & Storage:</strong> Supabase (PostgreSQL), OCSF Schema Ingestion</li>
+  <li><strong>Infrastructure & Deployment:</strong> Railway, Vercel, RESTful APIs</li>
+</ul>
+
 
 ## Contact
 
